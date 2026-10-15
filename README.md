@@ -1,16 +1,14 @@
-## Hi there 👋
+# Vinay Matroju
 
-<!--
-**Vinay2688/Vinay2688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Computer Science at the University of Cincinnati, graduating April 2027. I build software across cloud, data and AI. Open to software engineering roles, available from January 2027.
 
-Here are some ideas to get you started:
+## Selected projects
+- [RetailAI](https://github.com/Vinay2688/RetailAI): Azure retail analytics platform (Flask, Azure SQL) that predicts customer lifetime value and churn; SQL-side aggregation and caching cut dashboard load time by about 80%.
+- [Movie-Recommender](https://github.com/Vinay2688/Movie-Recommender): retrieval-augmented movie assistant using Sentence Transformers, FAISS and Google Gemini.
+- [Hand-Gesture-Mouse](https://github.com/Vinay2688/Hand-Gesture-Mouse): webcam hand-gesture mouse built with OpenCV, MediaPipe and PyAutoGUI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python, Java, SQL, JavaScript, TypeScript, Flask, Spring Boot, React, Azure, AWS, GCP, Docker, Kubernetes, scikit-learn, TensorFlow, PyTorch
+
+## Find me
+[Portfolio](https://vinay2688.github.io) · [LinkedIn](https://www.linkedin.com/in/vinaymatroju) · vinaymatroju08@gmail.com
